@@ -9,12 +9,9 @@ const config: Config = {
   favicon: 'img/snwzd.png',
 
   // Set the production url of your site here
-  // url: 'https://snwzd.net',
+  url: 'https://snwzd.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  // baseUrl: '/',
-
-  url: 'https://snwzd.github.io', // Your website URL
   baseUrl: '/',
   projectName: 'website',
   organizationName: 'snwzd',
