@@ -6,9 +6,9 @@ title: Basic Bash Scripting
 # Introduction to Bash Scripting
 It is hard to remember bash shell scripting if you try to memorize it. With my horrible memory, that makes it even harder. It is confusing for me to make notes on topics like these too. So, I wrote a script to remember some basic bash scripting I use in general.
 
-This script is a monitoring tool that tells you about your CPU, CPU Temperature, Fan Speed, Memory, Swap, Ethernet, and WiFi speeds.
-
 <!-- truncate -->
+
+This script is a monitoring tool that tells you about your CPU, CPU Temperature, Fan Speed, Memory, Swap, Ethernet, and WiFi speeds.
 
 ## Monitoring CPU Usage
 I did not want to use built-in tools like top, so I grabbed info from the proc directory:
