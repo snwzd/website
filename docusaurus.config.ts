@@ -9,15 +9,21 @@ const config: Config = {
   favicon: 'img/snwzd.png',
 
   // Set the production url of your site here
-  url: 'https://snwzd.net',
+  // url: 'https://snwzd.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  // organizationName: 'facebook', // Usually your GitHub org/user name.
+  // projectName: 'docusaurus', // Usually your repo name.
+
+  url: 'https://snwzd.github.io', // Your website URL
+  baseUrl: '/website',
+  projectName: 'website',
+  organizationName: 'snwzd',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
