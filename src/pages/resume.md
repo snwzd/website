@@ -13,9 +13,9 @@ title: Resume
 
 - **Cloud**: OpenStack, AWS  
 - **Languages**: Go, Python, Bash, YAML  
-- **Database**: MongoDB, PostgreSQL  
-- **Message Broker**: Redis, NATS  
-- **Tools**: Kubernetes, Ansible, Terraform, Nginx, GitLab, ArgoCD, Prometheus, Grafana, Loki, Linux  
+- **Database**: MongoDB, PostgreSQL, Redis 
+- **Message Broker**: NATS, ZeroMQ  
+- **Tools**: Kubernetes, IaC, Nginx, Envoy, Jenkins, GitLab, ArgoCD, Prometheus, Grafana, ELK, Linux  
 - **Social Skills**: Collaborative team member, engaged in team-building activities
 
 ---
