@@ -19,7 +19,7 @@ function ProfileHeader() {
       </Heading>
       <p className={styles.profileDescription}>
       Hi, I'm Mahaprasad (snwzd), a Cloud Engineer passionate about Backend Systems, Linux, and Cloud-Native Tech. 
-      I currently work at AceCloud as a Cloud-DevOps Engineer, building infrastructure and improving developer platform. 
+      I currently work at RTDS as a Cloud-DevOps Engineer, building infrastructure and improving developer platform. 
       In my free time, I enjoy sketching.
       </p>
       <div className={styles.socialLinks}>
