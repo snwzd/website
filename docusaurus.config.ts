@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'snwzd.net',
+  title: 'snwzd.com',
   favicon: 'img/snwzd.png',
 
   // Set the production url of your site here
@@ -55,10 +55,10 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: 'Home',
+      title: 'SNWZD',
       items: [
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/resume', label: 'Resume', position: 'left'},
+        {to: '/blog', label: 'BLOG', position: 'left'},
+        {to: '/resume', label: 'RESUME', position: 'left'},
       ],
     },
     footer: {
