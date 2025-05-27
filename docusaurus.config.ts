@@ -58,9 +58,6 @@ const config: Config = {
         {to: '/resume', label: 'RESUME', position: 'left'},
       ],
     },
-    footer: {
-      copyright: `Made with Docusaurus`,
-    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
